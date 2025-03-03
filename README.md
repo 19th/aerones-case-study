@@ -31,7 +31,7 @@ Guzzle has an option of async non-blocking file download based on Guzzle promise
 ## NodeJS + Axios and promises
 
 **Running**  
-Just run `./run_php_version.sh` or:
+Just run `./run_node_version.sh` or:
 
 1. Enter `nodejs_version` folder any convenient way you prefer
 2. Install dependencies `npm i`
